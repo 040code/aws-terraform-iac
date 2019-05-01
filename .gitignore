@@ -1,0 +1,13 @@
+.terraform
+.envrc
+
+# state
+*.tfstate*
+
+# keys
+*id_rsa*
+
+# other
+.idea
+.DS_Store
+*.out
